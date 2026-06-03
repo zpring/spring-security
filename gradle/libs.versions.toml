@@ -1,6 +1,6 @@
 [versions]
 com-squareup-okhttp3 = "3.14.9"
-io-micrometer = "1.15.12"
+io-micrometer = "1.15.13"
 io-rsocket = "1.1.5"
 io-spring-javaformat = "0.0.47"
 io-spring-nohttp = "0.0.11"
@@ -15,7 +15,7 @@ org-jetbrains-kotlinx = "1.10.2"
 org-mockito = "5.17.0"
 org-opensaml = "4.3.2"
 org-opensaml5 = "5.1.2"
-org-springframework = "6.2.19"
+org-springframework = "6.2.20"
 
 [libraries]
 ch-qos-logback-logback-classic = "ch.qos.logback:logback-classic:1.5.34"
@@ -29,11 +29,11 @@ com-squareup-okhttp3-okhttp = { module = "com.squareup.okhttp3:okhttp", version.
 com-unboundid-unboundid-ldapsdk = "com.unboundid:unboundid-ldapsdk:6.0.11"
 com-unboundid-unboundid-ldapsdk7 = "com.unboundid:unboundid-ldapsdk:7.0.1"
 commons-collections = "commons-collections:commons-collections:3.2.2"
-io-micrometer-context-propagation = "io.micrometer:context-propagation:1.1.4"
+io-micrometer-context-propagation = "io.micrometer:context-propagation:1.1.5"
 io-micrometer-micrometer-bom = { module = "io.micrometer:micrometer-bom", version.ref = "io-micrometer" }
 io-micrometer-micrometer-observation = { module = "io.micrometer:micrometer-observation", version.ref = "io-micrometer" }
 io-mockk = "io.mockk:mockk:1.14.7"
-io-projectreactor-reactor-bom = "io.projectreactor:reactor-bom:2024.0.18"
+io-projectreactor-reactor-bom = "io.projectreactor:reactor-bom:2024.0.19"
 io-rsocket-rsocket-bom = { module = "io.rsocket:rsocket-bom", version.ref = "io-rsocket" }
 io-spring-javaformat-spring-javaformat-checkstyle = { module = "io.spring.javaformat:spring-javaformat-checkstyle", version.ref = "io-spring-javaformat" }
 io-spring-javaformat-spring-javaformat-gradle-plugin = { module = "io.spring.javaformat:spring-javaformat-gradle-plugin", version.ref = "io-spring-javaformat" }
